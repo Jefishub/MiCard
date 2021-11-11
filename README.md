@@ -1,4 +1,4 @@
-![Preview of MiCard](https://github.com/jefishub/images/micard.png)
+![Preview of MiCard](https://github.com/Jefishub/MiCard/blob/master/images/micard.png)
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
